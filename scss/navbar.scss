@@ -1,0 +1,47 @@
+.nav-logo {
+    margin-left: 25px;
+    height: 75px;
+    width: 10%;
+    //background-color: coral;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .logo {
+      font-size: 4em;
+      font-weight: 100;
+      margin-bottom: 0px;
+    }
+  }
+
+  .nav-spacer {
+    height: 75px;
+    width: 100%;
+    //background-color: coral;
+  }
+
+  .signIn {
+    h5 {
+      margin-bottom: 0px;
+      color: black;
+      font-family: medium;
+      font-size: 16px;
+      font-weight: 100;
+    }
+    cursor: pointer;
+  }
+
+.nav-btns {
+  margin-right: 5%;
+  height: 75px;
+  width: 90%;
+  //background-color: aqua;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  a {
+    text-decoration: none;
+    color: black;
+    font-family: medium;
+    font-size: 16px;
+  }
+}

@@ -1,0 +1,32 @@
+.home-left-box {
+  width: 500px;
+  height: 500px;
+  margin-top: 25px;
+  margin-left: 75px;
+  //background-color: coral;
+  .CRE {
+    font-size: 220px;
+    margin-bottom: -150px;
+    font-weight: 100;
+  }
+  .MA {
+    font-size: 220px;
+    font-weight: 100;
+  }
+  .year {
+    font-size: 45px;
+    margin-top: -80px;
+    color: gray;
+}
+}
+
+.home-right-box {
+  width: 600px;
+  height: 450px;
+  //background-color: coral;
+    background-image: url("../assets/img/porta.jpg");
+    background-attachment: fixed;
+    background-position: right;
+    background-repeat: no-repeat;
+  overflow: hidden;
+}

@@ -1,0 +1,27 @@
+.details-left-box {
+  height: 400px;
+  width: 400px;
+  background-color: white;
+  h1 {
+    font-size: 50px;
+    font-weight: 100;
+    margin-bottom: 10%;
+  }
+  h3 {
+    margin-top: 10%;
+    font-size: 20px;
+    font-weight: 100;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px solid black;
+  }
+}
+
+.details-right-box {
+  height: 400px;
+  width: 75%;
+  background-color: white;
+  margin-right: 10%;
+}

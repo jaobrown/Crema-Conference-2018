@@ -1,0 +1,35 @@
+// generic resets for entire site
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html, body {
+  padding: 0px;
+}
+
+h1,h2,h3,h4,h5,h6,p {
+  margin-bottom: 16px;
+  font-family: Helvetica;
+}
+
+.book {
+  font-family: book;
+}
+
+.book-italic {
+  font-family: book-italic;
+}
+
+.medium {
+  font-family: medium;
+}
+
+.prata {
+  font-family: prata;
+}
+
+.didot {
+  font-family: didot;
+}
